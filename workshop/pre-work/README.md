@@ -139,6 +139,11 @@ Click on *New project*
 
 ![Start a new project](../.gitbook/assets/images/manage/cpd-new-project.png)
 
+
+Either [Create project from file](#create-project-from-file-for-openscale-configuration) if you are doing the manual configuration of OpenScale for this workshop,or [Create a blank project](#create-empty-project-if-you-are-not-using-openscale-configuration) if you aren't using OpenScale, or using OpenScale with the Fast Path configuration.
+
+#### Create project from file for OpenScale configuration
+
 Select the _*Create a project from a sample or file*_option:
 
 ![Create project from file](../.gitbook/assets/images/openscale-config/openscale-config-create-project-from-sample.png)
@@ -146,6 +151,16 @@ Select the _*Create a project from a sample or file*_option:
 Navigate to where you cloned this repository, then to `notebooks/` and choose `openscalelab.zip`. Give the project a name and click `Create`:
 
 ![Browse for project files](../.gitbook/assets/images/openscale-config/openscale-config-browse-for-project-files.png)
+
+#### Create empty project if you are not using OpenScale configuration
+
+Click on the top tile for `Create an empty project`:
+
+![Create an empty project](../.gitbook/assets/images/manage/cpd-create-empty-project.png)
+
+Give the project a unique name and click `Create`:
+
+![Pick a name](../.gitbook/assets/images/manage/cpd-new-project-name.png)
 
 ## 5. Create a Space for Machine Learning Deployments
 
